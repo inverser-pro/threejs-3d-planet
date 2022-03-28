@@ -2,7 +2,7 @@
 # threejs-3d-planet
 webgl 3d planet
 
-# Live view
+# Life view
 https://codepen.io/inverser/pen/QWaLqPm
 
 # Docs (lang: RU)
