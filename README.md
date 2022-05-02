@@ -8,3 +8,13 @@ https://codepen.io/inverser/pen/QWaLqPm
 # Docs (lang: RU)
 
 https://three.inverser.pro
+
+LECENSE: MIT
+Author: Inverser (go@inverser.pro)
+
+Thanks:
+https://codepen.io/prisoner849/pen/BaQzqqx
+,
+Yuri Artiukh
+
+// Knowledge will break the shackles of slavery \\
