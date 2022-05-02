@@ -15,7 +15,7 @@ Author: Inverser (go@inverser.pro)
 Thanks:
 https://codepen.io/prisoner849/pen/BaQzqqx
 ,
-Yuri Artiukh
+Yuri Artiukh @akella
 
 // Knowledge will break the shackles of slavery \\
 
