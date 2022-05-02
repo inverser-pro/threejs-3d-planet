@@ -18,3 +18,6 @@ https://codepen.io/prisoner849/pen/BaQzqqx
 Yuri Artiukh
 
 // Knowledge will break the shackles of slavery \\
+
+Support me:
+https://www.buymeacoffee.com/inverser
