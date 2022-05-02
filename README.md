@@ -10,14 +10,15 @@ https://codepen.io/inverser/pen/QWaLqPm
 https://three.inverser.pro
 
 LECENSE: MIT
+
 Author: Inverser (go@inverser.pro)
 
 Thanks:
-https://codepen.io/prisoner849/pen/BaQzqqx
-,
-Yuri Artiukh https://github.com/akella
+  Pavel https://codepen.io/prisoner849/pen/BaQzqqx
 
-// Knowledge will break the shackles of slavery \\
+  Yuri Artiukh https://github.com/akella
+
+// Knowledge will break the shackles of slavery \\\
 
 ### PLS, Support me:
 
