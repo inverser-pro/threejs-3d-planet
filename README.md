@@ -2,10 +2,13 @@
 # threejs-3d-planet
 WEBGL 3D planet / Globe / Earth
 
-# Life view
+## Further development of the planet will take place in this repository
+[https://github.com/inverser-pro/threejs-webgl-planet-for-production](https://github.com/inverser-pro/threejs-webgl-planet-for-production)
+
+## Life view
 https://codepen.io/inverser/pen/QWaLqPm
 
-# Docs (lang: RU)
+## Docs (lang: RU)
 
 https://three.inverser.pro
 
