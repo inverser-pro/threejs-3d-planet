@@ -2,6 +2,8 @@
 # threejs-3d-planet
 WEBGL 3D planet / Globe / Earth
 
+[Watch on Youtube](https://www.youtube.com/watch?v=UNvoDucprRE&list=PL0XYm8bdyeFDGJmFeHDiEXsmLfq3vWBaj)
+
 ## Further development of the planet will take place in this repository
 [https://github.com/inverser-pro/threejs-webgl-planet-for-production](https://github.com/inverser-pro/threejs-webgl-planet-for-production)
 
@@ -22,10 +24,6 @@ Thanks:
   Yuri Artiukh https://github.com/akella
 
 // Knowledge will break the shackles of slavery \\\
-
-### PLS, Support me:
-
-https://www.buymeacoffee.com/inverser
 
 ## Instruction
 
